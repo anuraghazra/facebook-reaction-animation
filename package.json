@@ -2,6 +2,7 @@
   "name": "facebook-reaction-animation",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anuraghazra.github.io/facebook-reaction-animation",
   "dependencies": {
     "framer-motion": "^1.6.17",
     "react": "^16.12.0",
