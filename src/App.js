@@ -55,7 +55,7 @@ export const list = {
 
 
 function App() {
-  const [isHover, setIsHover] = useState(true);
+  const [isHover, setIsHover] = useState(false);
 
   return (
     <main>
@@ -83,9 +83,9 @@ function App() {
       </Container>
 
       <FooterText>
-        <a href="https://github.com/anuraghazra/facebook-reaction-animation/" rel="noopener noreferrer" target="_blank">facebook-reaction-animation</a> made with React + Framer
+        <a href="https://github.com/anuraghazra/facebook-reaction-animation/" rel="noopener noreferrer" target="_blank">facebook-reaction-animation</a> made with React + FramerMotion
         by <a href="https://anuraghazra.github.io" rel="noopener noreferrer" target="_blank">@anuraghazra</a>
-        &nbsp;• Wonderful icons by <a href="https://iconscout.com/contributors/meet-shah" rel="noopener noreferrer" target="_blank">Meet Shah</a>
+        &nbsp;• Wonderful emojis by <a href="https://iconscout.com/contributors/meet-shah" rel="noopener noreferrer" target="_blank">Meet Shah</a>
       </FooterText>
     </main>
   );
