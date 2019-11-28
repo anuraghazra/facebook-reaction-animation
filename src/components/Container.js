@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Container = styled.main`
-  height: 90vh;
+  height: 93vh;
 
   display: flex;
   align-items: center;

@@ -1,68 +1,54 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Facebook Reaction Animation
 
-## Available Scripts
+Facebook Reaction Animation made with React and FramerMotion.
 
-In the project directory, you can run:
+**demo:** https://anuraghazra.github.io/facebook-reaction-animation
 
-### `yarn start`
+![Facebook Reaction Animation](./src/assets/facebook-reaction-animation.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### :wrench: Tools Used
+- [React](http://reactjs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Styled Components](https://www.styled-components.com/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## :v: Contributing
+Great!, 
+after cloning & setting up the local project you can push the changes to your github fork and make a pull request.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-----
 
-### `yarn build`
+**local development**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Step 1: Clone The Repo
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Fork the repository. then clone the repo locally by doing -
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/anuraghazra/facebook-reaction-animation.git
+```
 
-### `yarn eject`
+### Step 2: Install Dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+cd into the directory
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+cd facebook-reaction-animation
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+install all the dependencies
+```bash
+npm install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Step 3: Start Development Server
 
-## Learn More
+Then start the development Server
+```
+npm start
+```
+After running the development server the site should be running on https://localhost:3000
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Give the project a :star: if you liked it.
+Made with :heart: and React.

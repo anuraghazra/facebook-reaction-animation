@@ -5,7 +5,6 @@ const ReactionsWrapper = styled(motion.div)`
   position: absolute;
   top: -180%;
   /* left: 50%; */
-
   /* transform: translateX(-50%); */
 
   width: 350px;

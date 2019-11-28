@@ -1,5 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
+import { motion } from 'framer-motion';
+
+import { list } from '../App';
 
 const ReactionWrapper = styled.div`
   position: relative;
@@ -39,9 +42,11 @@ const ReactionImage = styled.img`
 
 const Reaction = ({ icon, name }) => {
   return (
-    <ReactionWrapper data-reaction-name={name}>
-      <ReactionImage src={icon} />
-    </ReactionWrapper>
+    <motion.div variants={list}>
+      <ReactionWrapper data-reaction-name={name}>
+        <ReactionImage src={icon} />
+      </ReactionWrapper>
+    </motion.div>
   )
 }
 
