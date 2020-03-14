@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/facebook-reaction-animation/static/css/main.7b84cb10.chunk.css",
+    "main.js": "/facebook-reaction-animation/static/js/main.d149f593.chunk.js",
+    "main.js.map": "/facebook-reaction-animation/static/js/main.d149f593.chunk.js.map",
+    "runtime-main.js": "/facebook-reaction-animation/static/js/runtime-main.a7e09d25.js",
+    "runtime-main.js.map": "/facebook-reaction-animation/static/js/runtime-main.a7e09d25.js.map",
+    "static/js/2.b51f8281.chunk.js": "/facebook-reaction-animation/static/js/2.b51f8281.chunk.js",
+    "static/js/2.b51f8281.chunk.js.map": "/facebook-reaction-animation/static/js/2.b51f8281.chunk.js.map",
+    "index.html": "/facebook-reaction-animation/index.html",
+    "precache-manifest.49dc0e93970c11aa91da3223a174c2b7.js": "/facebook-reaction-animation/precache-manifest.49dc0e93970c11aa91da3223a174c2b7.js",
+    "service-worker.js": "/facebook-reaction-animation/service-worker.js",
+    "static/css/main.7b84cb10.chunk.css.map": "/facebook-reaction-animation/static/css/main.7b84cb10.chunk.css.map",
+    "static/media/angry.svg": "/facebook-reaction-animation/static/media/angry.8eb3d92d.svg",
+    "static/media/haha.svg": "/facebook-reaction-animation/static/media/haha.f6843553.svg",
+    "static/media/like.svg": "/facebook-reaction-animation/static/media/like.a84d592f.svg",
+    "static/media/love.svg": "/facebook-reaction-animation/static/media/love.d5094158.svg",
+    "static/media/sad.svg": "/facebook-reaction-animation/static/media/sad.8783e7c9.svg",
+    "static/media/wow.svg": "/facebook-reaction-animation/static/media/wow.e5d8251e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e09d25.js",
+    "static/js/2.b51f8281.chunk.js",
+    "static/css/main.7b84cb10.chunk.css",
+    "static/js/main.d149f593.chunk.js"
+  ]
+}
